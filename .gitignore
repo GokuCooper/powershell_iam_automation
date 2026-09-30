@@ -1,0 +1,5 @@
+# Script output and logs can hold real account names and sign in data.
+# Keep them out of the public repo. Screenshots tell the story instead.
+logs/
+output/
+*.log
